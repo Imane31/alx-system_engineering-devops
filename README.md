@@ -1,2 +1,1 @@
-#!/bin/bash
-Task 0.Where am I?
+0x01-shell_permissions
